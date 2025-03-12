@@ -1,2 +1,2 @@
-azure-functions==4.0.0
-azure-storage-blob==3.3.0
+azure-functions==1.23.0b3
+azure-storage-blob==12.25.0
